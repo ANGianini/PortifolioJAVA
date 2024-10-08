@@ -1,0 +1,2 @@
+Sistema desenvolvido pela IDE Eclipse na linguagem de programação Java com o intuito de ser um 'Teste de Ansiedade', sendo dez perguntas feitas para o usuário responder com 'sim' ou 'não', que serão exibidas através da estrutura de repetição for com auxilio de um vetor. Baseado na quantidade de 'sim' que será contado pela condicional if/else dentro do for, aonde o mesmo está presente como saída de dados final. Contêm uma proibição de não ser possível digitar além de 'sim' ou 'não' com o laço de repetição while dentro do for.
+
