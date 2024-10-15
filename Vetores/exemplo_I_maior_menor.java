@@ -9,12 +9,12 @@ public class exemplo_I {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int[] num = new int[3];
+		int[] num = new int[10];
 		int maior, menor;
 		
-		System.out.print("Digite o 3  número: ");
-		for(int i = 0; i < 3; i++) {
-			
+		for(int i = 0; i < 10; i++) {
+
+			System.out.print("Digite o "+ (i + 1) + "º número: ");
 			num[i] = sc.nextInt();
 		}
 		
